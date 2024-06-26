@@ -33,3 +33,4 @@ bun dev
 
 Abra no seu navegador este link⇾[http://localhost:3000] e verá o resultado no seu navegador.
 
+Link da vercel -> https://projeto-atom.vercel.app
